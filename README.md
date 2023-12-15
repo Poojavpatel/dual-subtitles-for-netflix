@@ -20,7 +20,7 @@ DualSubtitles for Netflix is a Chrome extension that allows users to display two
 
 <!-- For detailed information about the architecture and design principles of DualSubtitles for Netflix, please refer  -->
 
-[Tech Design Doc](./DesignDoc.md)
+[Technical Design Doc](./DesignDoc.md)
 
 ## Contributing
 
